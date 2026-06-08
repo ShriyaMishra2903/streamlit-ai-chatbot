@@ -49,7 +49,7 @@ Users can enter a topic, generate AI-powered notes, and download the generated c
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-study-notes-generator.git
+git clone https://github.com/ShriyaMishra2903/ai-study-notes-generator.git
 cd ai-study-notes-generator
 ```
 
